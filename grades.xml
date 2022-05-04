@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+<grade IDHomework="1" IDStudent="1">
+<GradeValue>10.0</GradeValue>
+<DeliveryWeek>7</DeliveryWeek>
+<Feedback>done</Feedback>
+</grade>
+<grade IDHomework="2" IDStudent="2">
+<GradeValue>2.5</GradeValue>
+<DeliveryWeek>13</DeliveryWeek>
+<Feedback>fdfre</Feedback>
+</grade>
+<grade IDHomework="2" IDStudent="1">
+<GradeValue>7.5</GradeValue>
+<DeliveryWeek>9</DeliveryWeek>
+<Feedback>done</Feedback>
+</grade>
+<grade IDHomework="3" IDStudent="2">
+<GradeValue>5.0</GradeValue>
+<DeliveryWeek>12</DeliveryWeek>
+<Feedback>ere</Feedback>
+</grade>
+<grade IDHomework="5" IDStudent="333">
+<GradeValue>10.0</GradeValue>
+<DeliveryWeek>3</DeliveryWeek>
+<Feedback>gud</Feedback>
+</grade>
+<grade IDHomework="2" IDStudent="333">
+<GradeValue>10.0</GradeValue>
+<DeliveryWeek>8</DeliveryWeek>
+<Feedback>Good feedback</Feedback>
+</grade>
+</Entities>
